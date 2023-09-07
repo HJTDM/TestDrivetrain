@@ -61,6 +61,6 @@ public class Drivetrain extends SubsystemBase {
   }
 
   public void setRightMotor(){
-    rightFront.set(1);
+    rightFront.set(0);
   }
 }
